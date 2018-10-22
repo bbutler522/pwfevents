@@ -34,7 +34,7 @@ post_date: 2018-09-30 22:50:13
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>This spot is a new one.  They've been open for like ten months. There's some fast open wifi, a pool table, and a free jukebox. I would argue wifi usage is going to be best earlier on - this place turns into a party on the weeknights.</p>
+<p>This spot is a new one. They've been open for like ten months. There's some fast open wifi, a pool table, and a free jukebox. I would argue wifi usage is going to be best earlier on - this place turns into a party on the weeknights.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"very-light-gray","customBackgroundColor":"#806ed2","customFontSize":25} -->
